@@ -1,6 +1,8 @@
 # libcst_examples
 Some simple examples of code processing with libcst
 
+![main](figure/source.png)
+
 ## Install libcst
 
 ```
