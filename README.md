@@ -1,7 +1,11 @@
+<p align="center">
+<img src="https://github.com/nkrivoshchapov/libcst_examples/blob/master/figure/source.png?raw=true"  width="30%" height="30%">
+</p>
+
 # libcst_examples
+
 Some simple examples of code processing with libcst
 
-![main](figure/source.png)
 
 ## Install libcst
 
