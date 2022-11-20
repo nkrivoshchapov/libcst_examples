@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/nkrivoshchapov/libcst_examples/blob/master/figure/source.png?raw=true"  width="30%" height="30%">
+<img src="https://github.com/nkrivoshchapov/libcst_examples/blob/master/figure/source.png?raw=true"  width="50%" height="50%">
 </p>
 
 # libcst_examples
